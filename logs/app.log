@@ -1,0 +1,74 @@
+2023-12-28 00:31:14 - tests | INFO POST Response: {
+  "name": "Elizabeth Padilla",
+  "id": 10
+}
+2023-12-28 00:31:14 - tests | INFO GET Response: {
+  "id": 1,
+  "name": "Candace40"
+}
+2023-12-28 00:31:14 - tests | INFO PUT Response: {
+  "name": "Samuel Cruz",
+  "id": 1
+}
+2023-12-28 00:31:14 - tests | INFO DELETE Response: {}
+2023-12-28 00:31:14 - tests | INFO POST Response: {
+  "text": "Board finally scene follow less area see. Source resource at still.\nReport administration believe enjoy next drive eye father. Standard article really news.",
+  "date": "2010-09-30T04:55:27",
+  "id": 10
+}
+2023-12-28 00:31:14 - tests | INFO GET Response: {
+  "id": 1,
+  "text": "feud",
+  "date": "2023-02-23T19:18:55.217Z"
+}
+2023-12-28 00:31:14 - tests | INFO PUT Response: {
+  "text": "Report on only song. Perhaps anything provide minute easy action. Way open billion box maybe feel.\nThreat how campaign writer pattern open. Get new who oil same.",
+  "date": "1995-11-05T15:12:23",
+  "id": 1
+}
+2023-12-28 00:31:14 - tests | INFO DELETE Response: {}
+2023-12-28 00:31:14 - tests | INFO POST Response: {
+  "amount": 3761,
+  "positions": 45,
+  "id": 10
+}
+2023-12-28 00:31:14 - tests | INFO GET Response: {
+  "id": 1,
+  "amount": "8064",
+  "positions": "6"
+}
+2023-12-28 00:31:14 - tests | INFO PUT Response: {
+  "amount": 5623,
+  "positions": 53,
+  "id": 1
+}
+2023-12-28 00:31:14 - tests | INFO DELETE Response: {}
+2023-12-28 00:31:14 - tests | INFO POST Response: {
+  "name": "Bryant-Garcia",
+  "price": 8788,
+  "id": 20
+}
+2023-12-28 00:31:14 - tests | INFO GET Response: {
+  "id": 1,
+  "name": "Bugatti Ranchero",
+  "price": "55075"
+}
+2023-12-28 00:31:14 - tests | INFO PUT Response: {
+  "name": "Osborne PLC",
+  "price": 80968,
+  "id": 1
+}
+2023-12-28 00:31:14 - tests | INFO DELETE Response: {}
+2023-12-28 00:31:14 - tests | INFO POST Response: {
+  "color": "#643e8e",
+  "id": 10
+}
+2023-12-28 00:31:14 - tests | INFO GET Response: {
+  "id": 1,
+  "color": "#AC7F92"
+}
+2023-12-28 00:31:14 - tests | INFO PUT Response: {
+  "color": "#5972c6",
+  "id": 1
+}
+2023-12-28 00:31:14 - tests | INFO DELETE Response: {}
