@@ -1,292 +1,297 @@
 {
   "users": [
-    {
+  {
       "id": 0,
       "name": "Aimee_Moen"
-    },
-    {
+  },
+  {
+      "id": 1,
+      "name": "Candace40"
+  },
+  {
       "id": 2,
       "name": "Braulio76"
-    },
-    {
+  },
+  {
       "id": 3,
       "name": "Triston_Sipes82"
-    },
-    {
+  },
+  {
       "id": 4,
       "name": "Genevieve71"
-    },
-    {
+  },
+  {
       "id": 5,
       "name": "Leone_Lowe78"
-    },
-    {
+  },
+  {
       "id": 6,
       "name": "Emerson.Bergstrom"
-    },
-    {
+  },
+  {
       "id": 7,
       "name": "Selena.Lehner"
-    },
-    {
+  },
+  {
       "id": 8,
       "name": "Mae_Abshire"
-    },
-    {
+  },
+  {
       "id": 9,
       "name": "Quinn15"
-    },
-    {
-      "name": "Jeffrey Wyatt",
-      "id": 10
-    }
-  ],
-  "posts": [
-    {
+  }
+],
+"posts":
+[
+  {
       "id": 0,
       "text": "since",
       "date": "2023-09-09T17:38:36.047Z"
-    },
-    {
+  },
+  {
+      "id": 1,
+      "text": "feud",
+      "date": "2023-02-23T19:18:55.217Z"
+  },
+  {
       "id": 2,
       "text": "carelessly",
       "date": "2023-02-05T15:42:24.240Z"
-    },
-    {
+  },
+  {
       "id": 3,
       "text": "vacantly",
       "date": "2023-04-14T19:49:24.641Z"
-    },
-    {
+  },
+  {
       "id": 4,
       "text": "nor",
       "date": "2023-06-03T20:27:05.382Z"
-    },
-    {
+  },
+  {
       "id": 5,
       "text": "deceivingly",
       "date": "2023-07-01T10:36:11.074Z"
-    },
-    {
+  },
+  {
       "id": 6,
       "text": "after",
       "date": "2023-08-30T00:54:06.832Z"
-    },
-    {
+  },
+  {
       "id": 7,
       "text": "automate",
       "date": "2023-08-20T08:28:46.844Z"
-    },
-    {
+  },
+  {
       "id": 8,
       "text": "queasy",
       "date": "2023-05-21T11:53:08.952Z"
-    },
-    {
+  },
+  {
       "id": 9,
       "text": "far",
       "date": "2023-12-21T16:19:53.847Z"
-    },
-    {
-      "text": "Cut call line. Staff impact responsibility light.\nDespite note evening happen hot indeed. Page voice either fish organization.",
-      "date": "1970-06-19T05:14:26",
-      "id": 10
-    }
-  ],
-  "orders": [
-    {
+  }
+],
+"orders":
+[
+  {
       "id": 0,
       "amount": "6675",
       "positions": "7"
-    },
-    {
+  },
+  {
+      "id": 1,
+      "amount": "8064",
+      "positions": "6"
+  },
+  {
       "id": 2,
       "amount": "5276",
       "positions": "4"
-    },
-    {
+  },
+  {
       "id": 3,
       "amount": "1368",
       "positions": "2"
-    },
-    {
+  },
+  {
       "id": 4,
       "amount": "4236",
       "positions": "5"
-    },
-    {
+  },
+  {
       "id": 5,
       "amount": "6411",
       "positions": "6"
-    },
-    {
+  },
+  {
       "id": 6,
       "amount": "5126",
       "positions": "8"
-    },
-    {
+  },
+  {
       "id": 7,
       "amount": "9238",
       "positions": "3"
-    },
-    {
+  },
+  {
       "id": 8,
       "amount": "6401",
       "positions": "1"
-    },
-    {
+  },
+  {
       "id": 9,
       "amount": "2094",
       "positions": "2"
-    },
-    {
-      "amount": 314,
-      "positions": 83,
-      "id": 10
-    }
-  ],
-  "vehicle": [
-    {
+  }
+],
+"vehicle":
+[
+  {
       "id": 0,
       "name": "Audi Colorado",
       "price": "72639"
-    },
-    {
+  },
+  {
+      "id": 1,
+      "name": "Bugatti Ranchero",
+      "price": "55075"
+  },
+  {
       "id": 2,
       "name": "Polestar Fortwo",
       "price": "13308"
-    },
-    {
+  },
+  {
       "id": 3,
       "name": "Audi Accord",
       "price": "96984"
-    },
-    {
+  },
+  {
       "id": 4,
       "name": "Lamborghini Volt",
       "price": "69746"
-    },
-    {
+  },
+  {
       "id": 5,
       "name": "Jaguar A4",
       "price": "97153"
-    },
-    {
+  },
+  {
       "id": 6,
       "name": "Polestar Expedition",
       "price": "87881"
-    },
-    {
+  },
+  {
       "id": 7,
       "name": "Tesla Wrangler",
       "price": "29454"
-    },
-    {
+  },
+  {
       "id": 8,
       "name": "Fiat Land Cruiser",
       "price": "06726"
-    },
-    {
+  },
+  {
       "id": 9,
       "name": "Dodge Model 3",
       "price": "90598"
-    },
-    {
+  },
+  {
       "id": 10,
       "name": "Toyota El Camino",
       "price": "83047"
-    },
-    {
+  },
+  {
       "id": 11,
       "name": "Hyundai Sentra",
       "price": "41339"
-    },
-    {
+  },
+  {
       "id": 12,
       "name": "Tesla Spyder",
       "price": "16089"
-    },
-    {
+  },
+  {
       "id": 13,
       "name": "Land Rover Grand Caravan",
       "price": "22301"
-    },
-    {
+  },
+  {
       "id": 14,
       "name": "Honda Volt",
       "price": "28559"
-    },
-    {
+  },
+  {
       "id": 15,
       "name": "Toyota Grand Cherokee",
       "price": "82996"
-    },
-    {
+  },
+  {
       "id": 16,
       "name": "Porsche Golf",
       "price": "05649"
-    },
-    {
+  },
+  {
       "id": 17,
       "name": "Bentley Ranchero",
       "price": "45797"
-    },
-    {
+  },
+  {
       "id": 18,
       "name": "Mercedes Benz Camaro",
       "price": "38951"
-    },
-    {
+  },
+  {
       "id": 19,
       "name": "Chevrolet Model X",
       "price": "94737"
-    },
-    {
-      "name": "Williamson-Davenport",
-      "price": 71272,
-      "id": 20
-    }
-  ],
-  "colors": [
-    {
+  }
+],
+"colors":
+[
+  {
       "id": 0,
       "color": "#5E5CF2"
-    },
-    {
+  },
+  {
+      "id": 1,
+      "color": "#AC7F92"
+  },
+  {
       "id": 2,
       "color": "#514C6E"
-    },
-    {
+  },
+  {
       "id": 3,
       "color": "#DD2F6C"
-    },
-    {
+  },
+  {
       "id": 4,
       "color": "#53A7CE"
-    },
-    {
+  },
+  {
       "id": 5,
       "color": "#B0178A"
-    },
-    {
+  },
+  {
       "id": 6,
       "color": "#BD9FD9"
-    },
-    {
+  },
+  {
       "id": 7,
       "color": "#65CDBE"
-    },
-    {
+  },
+  {
       "id": 8,
       "color": "#13D1AB"
-    },
-    {
+  },
+  {
       "id": 9,
       "color": "#DBE8CB"
-    },
-    {
-      "color": "#11738c",
-      "id": 10
-    }
-  ]
+  }
+]
+
 }
