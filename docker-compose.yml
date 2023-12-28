@@ -1,0 +1,30 @@
+version: '3'
+
+
+services:
+  api:
+    image: codfish/json-server:0.17.3
+    working_dir: /app
+    ports:
+      - 3000:80
+    expose:
+      - "3000"
+    networks:
+      - api_net
+    volumes:
+      - "./db.json:/app/db.json"
+
+  tests: 
+    working_dir: /app
+    build:
+      dockerfile: ./Dockerfile
+    ports:
+      - "9999:9999"
+    networks:
+      - api_net
+    depends_on:
+      - api
+
+networks:
+  api_net:
+    driver: bridge
